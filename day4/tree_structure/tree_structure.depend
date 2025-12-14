@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1765468320 source:d:\iti\dsa\day4\tree_structure\main.cpp
+	<iostream>
+	"Node.h"
+	"BST.h"
+
+1765468306 d:\iti\dsa\day4\tree_structure\node.h
+	<string>
+
+1765470238 d:\iti\dsa\day4\tree_structure\bst.h
+	"Node.h"
+

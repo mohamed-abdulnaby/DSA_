@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1765628793 source:d:\iti\dsa\day5\adjacency_matrix\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<stack>
+

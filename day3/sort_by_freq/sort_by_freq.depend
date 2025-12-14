@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765311190 source:d:\iti\dsa\day3\sort_by_freq\main.cpp
+	<iostream>
+	<algorithm>
+	<map>
+

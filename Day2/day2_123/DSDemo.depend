@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1765011947 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765011960 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\dsdemo\src\node.cpp
+
+1765014732 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1765014645 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\linkedlist.h
+	"Node.h"
+
+1765010943 e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\include\node.h
+
+1765010836 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\linkedlist.cpp
+
+1765010844 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\node.cpp
+
+1765095319 source:e:\work\iti\teaching\intake\intake42\03_dsa_cloud_telecom\day1\dsdemo\src\stack.cpp
+
+1765118505 source:d:\iti\dsa\day2\dsdemo\src\linkedlist.cpp
+
+1765118505 source:d:\iti\dsa\day2\dsdemo\src\node.cpp
+
+1765118769 source:d:\iti\dsa\day2\dsdemo\src\stack.cpp
+
+1765118716 source:d:\iti\dsa\day2\dsdemo\main.cpp
+	<iostream>
+	"Stack.h"
+
+1765123123 d:\iti\dsa\day2\dsdemo\include\stack.h
+	"Node.h"
+	<iostream>
+
+1765123137 d:\iti\dsa\day2\dsdemo\include\node.h
+	<iostream>
+
+1765123185 source:d:\iti\dsa\day2\dsdemo\src\queue.cpp
+	<Node.h>
+
+1765179026 source:d:\iti\dsa\day2\day2_123\main.cpp
+	<iostream>
+	"Queue.h"
+	"circ_queue.h"
+	"Stack.h"
+
+1765123123 d:\iti\dsa\day2\day2_123\include\stack.h
+	"Node.h"
+	<iostream>
+
+1765123137 d:\iti\dsa\day2\day2_123\include\node.h
+	<iostream>
+
+1765123597 d:\iti\dsa\day2\day2_123\include\queue.h
+	<Node.h>
+
+1765118505 source:d:\iti\dsa\day2\day2_123\src\linkedlist.cpp
+
+1765118505 source:d:\iti\dsa\day2\day2_123\src\node.cpp
+
+1765123185 source:d:\iti\dsa\day2\day2_123\src\queue.cpp
+	<Node.h>
+
+1765118769 source:d:\iti\dsa\day2\day2_123\src\stack.cpp
+
+1765179128 d:\iti\dsa\day2\day2_123\include\circ_queue.h
+

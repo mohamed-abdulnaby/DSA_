@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765118232 source:d:\iti\dsa\day2\lab1\node.h
+	<iostream>
+
+1765118220 source:d:\iti\dsa\day2\lab1\main.cpp
+	<iostream>
+	"stack.h"
+
+1765118338 d:\iti\dsa\day2\lab1\stack.h
+	"Node.h"
+	<iostream>
+
+1765118232 d:\iti\dsa\day2\lab1\node.h
+	<iostream>
+
